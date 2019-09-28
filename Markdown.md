@@ -20,8 +20,9 @@ eee@mail.ru
 [текст](https://www.markdownguide.org)
 [текст](https://www.markdownguide.org "это поможет")
 ![](http://3.bp.blogspot.com/-_DLc3qDxsNA/VenIznBsK7I/AAAAAAAAB0A/GHjI_97B364/s1600/TheFunk.jpg)
+
 1|2|3
----|:---:|---:
+---:|:---:|---:
 да|нет|не знаю
 не знаю|нет|да
 нет|не знаю|да
